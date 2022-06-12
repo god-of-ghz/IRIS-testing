@@ -1,3 +1,5 @@
+Tutorial that I followed with some help from a friend
+
 # Tutorial Part 1
 We'll be looking at some introductory material with the Iris (the flower)
 dataset.
